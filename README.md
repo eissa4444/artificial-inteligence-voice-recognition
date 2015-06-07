@@ -1,6 +1,6 @@
 # artificial-inteligence-voice-recognition-approach-
-use google api in c sharp
 
+artificial inteligence project built on tww libiraries one for Speech Synthesis and the other for Speech Recognition 
 
-recognize the voice and then transform to text by using two libiraries one for Speech Synthesis
-and the other for Speech Recognition 
+link for avideo
+https://youtu.be/NGsA5qZemT4
